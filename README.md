@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Gustavo Cândido da Silva
 
-You can use the [editor on GitHub](https://github.com/gustavo-candido-silva/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div style="text-align:justify">Sou formado em Análise e Desenvolvimento de Sistemas, tenho mais de 4 anos de experiência em desenvolvimento de sistemas, atualmente trabalho com desenvolvimento de aplicações web, API's e objetos de banco de dados (Procedures, Functions, Packages, etc) voltados para gestão de empresas, tendo como principal linguagem o SQL e PL/SQL na plataforma de desenvolvimento Oracle Application Express (Oracle APEX), e também outras linguagens de forma secundária como Java SE/EE, Javascript (com jQuery e CSS), Python e C#.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Também estou cursando especialização em ciência de dados que envolve coleta e análise de dados, treinamento de modelos preditivos em machine learning, engenharia de dados e programação voltada para ciência de dados.</div>
 
-### Markdown
+### Repositórios disponíveis em meu github:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gustavo-candido-silva/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)]
+[Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One]
+[Teste automatizado em Java de aplicação web utilizando Cucumber (BDD), jUnit e Selenium]
+[Teste automatizado em Java de API Rest]
