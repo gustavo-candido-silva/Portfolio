@@ -4,7 +4,7 @@
 
 <p style="text-align: justify">Também estou cursando especialização em ciência de dados que envolve coleta e análise de dados, treinamento de modelos preditivos em machine learning, engenharia de dados e programação voltada para ciência de dados.</p>
 
-### Repositórios disponíveis em meu github:
+### Repositórios disponíveis em meu github
 
 * [API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)](https://github.com/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB)
 * [Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One](https://github.com/gustavo-candido-silva/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes)
