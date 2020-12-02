@@ -6,8 +6,14 @@
 
 ### Repositórios disponíveis em meu github
 
-* [API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)](https://github.com/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB)
-* [Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One](https://github.com/gustavo-candido-silva/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes)
-* [Teste automatizado em Java de aplicação web utilizando Cucumber (BDD), jUnit e Selenium](https://github.com/gustavo-candido-silva/INM-PHPTRAVEL-WEB)
-* [Teste automatizado em Java de API Rest](https://github.com/gustavo-candido-silva/INM-REQRES-API)
-* [API documentada em .NET Core MVC](https://github.com/gustavo-candido-silva/API-documentada-em-.NET-Core-MVC)
+  #### Desenvolvimento em Python
+    * [API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)](https://github.com/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB)
+    
+  #### Desenvolvimento .NET
+    * [API documentada em .NET Core MVC](https://github.com/gustavo-candido-silva/API-documentada-em-.NET-Core-MVC)
+    * [Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One](https://github.com/gustavo-candido-silva/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes)
+    
+  #### Testes Automatizados
+    * [Teste automatizado em Java de aplicação web utilizando Cucumber (BDD), jUnit e Selenium](https://github.com/gustavo-candido-silva/INM-PHPTRAVEL-WEB)
+    * [Teste automatizado em Java de API Rest](https://github.com/gustavo-candido-silva/INM-REQRES-API)
+
