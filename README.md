@@ -5,7 +5,7 @@
 ## Repositórios disponíveis em meu github
 
 ### Desenvolvimento em Python
-* [API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)](https://github.com/gustavo-candido-silva/Python-RESTful-API-using-Flask-and-MongoDB)
+* [API RESTful em Python utilizando Flask e persistêcia dos dados MongoDB (CRUD)](https://gustavo-candido-silva.github.io/Python-RESTful-API-using-Flask-and-MongoDB/)
     
 ### Desenvolvimento .NET
 * [API documentada em .NET Core MVC](https://github.com/gustavo-candido-silva/API-documentada-em-.NET-Core-MVC)
@@ -16,5 +16,5 @@
 * [Teste automatizado em Java de API Rest](https://github.com/gustavo-candido-silva/INM-REQRES-API)
 
 ### Desenvolvimento FullStack
-* [Login e consulta de Cep com Front-End em Angular e Back-end em .NET Core](https://github.com/gustavo-candido-silva/ConsultaCep-Angular-e-.NET-Core)
+* [Login e consulta de Cep com Front-End em Angular e Back-end em .NET Core](https://gustavo-candido-silva.github.io/ConsultaCep-Angular-e-.NET-Core/)
 
