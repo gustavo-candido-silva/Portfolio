@@ -15,3 +15,6 @@
 * [Teste automatizado em Java de aplicação web utilizando Cucumber (BDD), jUnit e Selenium](https://github.com/gustavo-candido-silva/INM-PHPTRAVEL-WEB)
 * [Teste automatizado em Java de API Rest](https://github.com/gustavo-candido-silva/INM-REQRES-API)
 
+### Desenvolvimento FullStack
+* [Login e consulta de Cep com Front-End em Angular e Back-end em .NET Core](https://github.com/gustavo-candido-silva/ConsultaCep-Angular-e-.NET-Core)
+
