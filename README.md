@@ -9,7 +9,7 @@
     
 ### Desenvolvimento .NET
 * [API documentada em .NET Core MVC](https://github.com/gustavo-candido-silva/API-documentada-em-.NET-Core-MVC)
-* [Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One](https://github.com/gustavo-candido-silva/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes)
+* [Aplicação web com API em ASP.NET MVC - Curso: "Desenvolvimento de aplicações com .NET" da Digital Innovation One](https://gustavo-candido-silva.github.io/Exemplo-ASP.NET-MVC-em-C---Web-API-s-e-Testes/)
     
 ### Testes Automatizados
 * [Teste automatizado em Java de aplicação web utilizando Cucumber (BDD), jUnit e Selenium](https://github.com/gustavo-candido-silva/INM-PHPTRAVEL-WEB)
