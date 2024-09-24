@@ -21,7 +21,7 @@
             <h2><a href="{{site.linkedin}}" target="_blank">{{ site.title }}</a></h2>
           </nav>
         </div>
-        <h1>Olá, sou <a href="{{ "/" | site.linkedin }}"> {{ site.title }}.</a></h1>
+        <h1>Olá, sou <a href="{{ "/" | site.linkedin }}" target="_blank"> {{ site.title }}.</a></h1>
 
         <p>
           Engenheiro de software e apaixonado por tecnologia, não só na área de TI.
@@ -54,9 +54,8 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.title }}</a></p>
+        <p>Este projeto é mantido por <a href="{{ site.github.owner_url }}">{{ site.title }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
