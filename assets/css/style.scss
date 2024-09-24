@@ -3,7 +3,59 @@
 
 @import "{{ site.theme }}";
 
-/* new css */
-header img {
-    box-shadow: 0px 0px 3px 2px #ccc;
+/* reset from original theme */
+html, body {
+    background-color: #0a0a0a;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 30px 20px 50px;
+}
+
+section {
+    padding: 50px 20px;
+    margin: 0px;
+    border: solid 1px #484848;
+}
+
+footer {
+    padding: 20px;
+}
+
+h1, 
+h2, 
+h3,
+h1 a,
+h2 a,
+h3 a {
+    color: #fff;
+    margin-top: 20px;
+}
+
+p {
+    color: #c7c7c7;
+    margin: 0px;
+}
+
+a {
+    color: #D3E97A;
+}
+
+/* navbar */
+.navbar-container {
+    width: 100%;
+    height: 76px;
+    padding: 16px;
+}
+
+nav {
+    position: relative;
+}
+
+.navbar-container h2 {
+    font-size: 18px;
+    height: 18px;
+    line-height: 18px;
 }
