@@ -21,7 +21,11 @@
             <h2><a href="{{site.linkedin}}" target="_blank">{{ site.title }}</a></h2>
           </nav>
         </div>
-        <h1><a href="{{ "/" | site.linkedin }}">Olá, eu sou {{ site.title }}.</a></h1>
+        <h1>Olá, eu sou <a href="{{ "/" | site.linkedin }}"> {{ site.title }}.</a></h1>
+
+        <p>
+          Engenheiro de software e apaixonado por tecnologia, não só na área de TI.
+        </p>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
