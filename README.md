@@ -25,6 +25,5 @@
 
 ### Desenvolvimento FullStack
 * [Login e consulta de Cep com Front-End em Angular e Back-end em .NET Core](https://gustavo-candido-silva.github.io/ConsultaCep-Angular-e-.NET-Core/)
-
 * [Meu próprio portfólio feito com Github pages](https://github.com/gustavo-candido-silva/Portfolio)
 
