@@ -24,7 +24,7 @@ header h1 a {
 
 header img {
     border-radius: 20px;
-    margin: 20px auto;
+    margin: 10px auto;
 }
 
 section {
@@ -55,7 +55,7 @@ h1 {
 
 p {
     color: #c7c7c7;
-    margin: 0px;
+    margin-bottom: 10px;
 }
 
 a {
@@ -76,4 +76,9 @@ nav {
     font-size: 16px;
     height: 16px;
     line-height: 16px;
+}
+
+/* content section */
+.content-text {
+    text-indent: 20px;
 }
